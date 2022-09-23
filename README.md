@@ -9,7 +9,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Python.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Php.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Type%3DDefault%20(1).svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
