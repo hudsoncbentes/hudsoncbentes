@@ -5,11 +5,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsoncbentes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/html.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Python.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Php.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Type%3DDefault%20(1).svg">
-  <img align="center" alt="Rafa-Python" height="30" width="50" src="https://github.com/hudsoncbentes/icons/blob/main/Microsoft-Power-BI-Symbol.png">
+  <img align="center" alt="hud-HTML" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/html.svg">
+  <img align="center" alt="hud-PYTHON" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Python.svg">
+  <img align="center" alt="hud-PHP" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Php.svg">
+  <img align="center" alt="hud-MYSQL" height="30" width="40" src="https://github.com/hudsoncbentes/icons/blob/main/Type%3DDefault%20(1).svg">
+  <img align="center" alt="hud-PBI" height="30" width="50" src="https://github.com/hudsoncbentes/icons/blob/main/Microsoft-Power-BI-Symbol.png">
 </div>
   
   ##
